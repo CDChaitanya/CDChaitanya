@@ -45,5 +45,5 @@ Here are some ideas to get you started:
 <h3 align="left">Contact me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/chaitanya-deshpande-5a4908190/" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="cd17" height="30" width="30" /></a>
-  <a href="https://www.instagram.com/im_cd_17/" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" alt="cd17" height="30" width="30" /></a>
+  <a href="https://www.instagram.com/chaitanyadeshpand_17/" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" alt="cd17" height="30" width="30" /></a>
 </p>
